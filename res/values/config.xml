@@ -24,7 +24,7 @@
     <bool name="useCameraInterface">false</bool>
 
     <!-- Full path to the sysfs toggle -->
-    <string name="flashDevice" translatable="false">/sys/class/leds/flashlight/brightness</string>
+    <string name="flashDevice" translatable="false">/sys/class/camera/rear/rear_flash</string>
 
     <!-- Full path to the sysfs luminosity -->
     <string name="flashDeviceLuminosity" translatable="false"></string>
